@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+.idea/
+*.log
+__pycache__
+migrations
+node_modules
+package-lock.json
+db.sqlite3
+media
+build
+frontend/package-lock.json
+*.local
+.aws
+venv/
